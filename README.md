@@ -12,7 +12,7 @@ A terminal-based airline seat reservation system built in C that manages flight 
 - File-based seat booking persistence per flight and date
 - Input validation for seat selection, flight number, and travel date
 - Prevents double booking of seats
-- Interactive terminal-based UI
+- Terminal-based interface for seat selection
 
 ## Stack & Concepts
 C, File Handling, Structs & Enums, 2D Arrays, Input Validation
