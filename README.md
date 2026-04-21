@@ -9,7 +9,7 @@ A terminal-based airline seat reservation system built in C that manages flight 
   - L232 (2–3–2 seating)
   - L343 (3–4–3 seating)
 - Dynamic seat map generation and display
-- File-based seat persistence per flight and date
+- File-based seat booking persistence per flight and date
 - Input validation for seat selection, flight number, and travel date
 - Prevents double booking of seats
 - Interactive terminal-based UI
