@@ -1,6 +1,6 @@
 # Airline Seat Reservation System (C)
 
-A terminal-based airline seat reservation system built in C that manages flight layouts, seat availability, and reservations using file handling.
+A terminal-based airline seat reservation system in C supporting different seat layouts across flights.
 
 ## Features
 - Multiple flight configurations using a master file (`Master.txt`)
